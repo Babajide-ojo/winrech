@@ -1,0 +1,55 @@
+.container{
+    background-color: white;
+    width: 100%;
+    
+}
+.d-block w-100{
+    width: 400px;
+    height: 500px;
+}
+.container1{
+    justify-content: space-evenly;
+    background-color: #08c;
+    size: 100%;
+}
+
+form{
+    padding: 0px 120px 0px 120px;
+    color: white;
+}
+#spaan{
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    border: white;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 250px;
+    height:400px;
+    box-shadow: white;
+
+}
+.section_header{
+position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+#spaank{
+    
+    text-align: center;
+    padding: 5px;
+    color: white;
+
+    
+
+
+}
+.container2{
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: center;
+}
